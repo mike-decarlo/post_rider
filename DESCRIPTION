@@ -1,4 +1,4 @@
-Package: post_rider
+Package: stridr
 Version: 0.0.0.9000
 Date: 2020-03-18
 Title: Taking Posts To and Fro
@@ -18,8 +18,8 @@ Imports:
     RCurl
 Description: Managing messages for using Slack Webhooks
 License: file LICENSE
-URL: https://github.com/mike-decarlo/post_rider
-BugReports: https://github.com/mike-decarlo/post_rider
+URL: https://github.com/mike-decarlo/stridr
+BugReports: https://github.com/mike-decarlo/stridr
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.1.0

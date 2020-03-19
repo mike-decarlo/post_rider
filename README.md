@@ -1,2 +1,2 @@
-# strider
-message delivery service vehicle
+# stridr
+Slack Message Delivery
