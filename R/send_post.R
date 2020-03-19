@@ -32,7 +32,7 @@ send_post <- function(.letter = "Hello world!", .rider = NULL
     , .letter
     , '"}'
   )
-  if (!jsonlite::validate(post)) {
+  if (!jsonlite::validate(.post)) {
     stop("Not valid JSON text.")
   } else {
     .post <- httr::POST(
