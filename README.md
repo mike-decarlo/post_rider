@@ -1,2 +1,2 @@
-# post_rider
+# strider
 message delivery service vehicle
